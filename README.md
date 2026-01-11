@@ -1,2 +1,2 @@
 # personal-website
-personal website
+how i hosted this personal website
